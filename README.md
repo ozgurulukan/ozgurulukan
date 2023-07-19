@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working as Full Stack Developer
+🔭 Özgür, Full Stack Developer
 
 
 # 💻 Tech Stack:
